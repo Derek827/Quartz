@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="eci_radarModelStoreContainer" CdmEntityContainer="ECIRadarEntities">
+    <EntitySetMapping Name="jobconfiguration">
+      <EntityTypeMapping TypeName="eci_radarModel.jobconfiguration">
+        <MappingFragment StoreEntitySet="jobconfiguration">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="TriggerName" ColumnName="TriggerName" />
+          <ScalarProperty Name="TriggerUrl" ColumnName="TriggerUrl" />
+          <ScalarProperty Name="Explain" ColumnName="Explain" />
+          <ScalarProperty Name="CronExpr" ColumnName="CronExpr" />
+          <ScalarProperty Name="Classify" ColumnName="Classify" />
+          <ScalarProperty Name="IsValid" ColumnName="IsValid" />
+          <ScalarProperty Name="RunStatus" ColumnName="RunStatus" />
+          <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

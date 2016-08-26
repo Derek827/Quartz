@@ -1,0 +1,13 @@
+E:\Project\NewQuartzJob\QuartzJob\QuartzJob.Services\bin\Debug\QuartzJob.Services.dll
+E:\Project\NewQuartzJob\QuartzJob\QuartzJob.Services\bin\Debug\QuartzJob.Services.pdb
+E:\Project\NewQuartzJob\QuartzJob\QuartzJob.Services\obj\Debug\QuartzJob.Services.dll
+E:\Project\NewQuartzJob\QuartzJob\QuartzJob.Services\obj\Debug\QuartzJob.Services.pdb
+E:\MyProject\QuartzJob\QuartzJob.Services\bin\Debug\QuartzJob.Services.dll
+E:\MyProject\QuartzJob\QuartzJob.Services\bin\Debug\QuartzJob.Services.pdb
+E:\MyProject\QuartzJob\QuartzJob.Services\obj\Debug\QuartzJob.Services.csprojResolveAssemblyReference.cache
+E:\MyProject\QuartzJob\QuartzJob.Services\obj\Debug\QuartzJob.Services.dll
+E:\MyProject\QuartzJob\QuartzJob.Services\obj\Debug\QuartzJob.Services.pdb
+E:\Project\QuartzJob\QuartzJob.Services\bin\Debug\QuartzJob.Services.dll
+E:\Project\QuartzJob\QuartzJob.Services\bin\Debug\QuartzJob.Services.pdb
+E:\Project\QuartzJob\QuartzJob.Services\obj\Debug\QuartzJob.Services.dll
+E:\Project\QuartzJob\QuartzJob.Services\obj\Debug\QuartzJob.Services.pdb
